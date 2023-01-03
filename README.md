@@ -53,3 +53,7 @@ Contrary to popular believe, the people of Rapa Nui (Easter Island) maintained a
 
 * Resources are also scattered in patches on Rapa Nui. Most farming occurs around discrete wells that line the coast, which validates the simulation 
 * The evolution of cooperation could have been supported by the randomness of rainfall. 
+
+## Acknowledgements
+
+I would like to thank my collaborators Dr. Terry Hunt and Dr. Carl Lipo for creating the project idea and for introducing me to archaeology. I would also like to thank my other collaborator Michaela Starkey for her advice on producing and analyzing the simulation. 
