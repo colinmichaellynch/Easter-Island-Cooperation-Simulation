@@ -24,8 +24,10 @@ Contrary to popular believe, the people of Rapa Nui (Easter Island) maintained a
   - I define a process in which the parameter P continuously controlls how periodic rainfall is. P = 0 = random, P = 1 = periodic. 
   - P is a free parameter of the model. 
   - In the following figure, the x-axis is time, and the y-axis shows whether it is raining (1) or not raining (0). Each panel shows a different level of P.
-  
-![](/Images/periodicRainfall.png)
+
+<p align="center">
+  <img width="600" height="400" src=/Images/periodicRainfall.png>
+</p>
 
 * Multi-Agent Simulation
   - Agents can exist in a 2-dimensional grid
@@ -38,8 +40,10 @@ Contrary to popular believe, the people of Rapa Nui (Easter Island) maintained a
   - Cooperators beget cooperators and non-cooperators beget non-cooperators
   - Agents die if they run out of energy 
   - In the following figure, the grid represents the world the agents (humanoid figures) can inhabit. Red figures are cheaters, and blue ones are cooperators. Green represents land that agents can forage food from, brown is land that needs rain to grow food, and black represents ground that will never have food. 
-  
-![](/Images/simulatedWorld.png)
+
+<p align="center">
+  <img width="500" height="500" src=/Images/simulatedWorld.png>
+</p>
 
 * Data collection/analysis 
   - At the end of every simulation, I find the number of cooperators / the number of non-cooperators. This is the cooperator ratio 
@@ -52,7 +56,9 @@ Contrary to popular believe, the people of Rapa Nui (Easter Island) maintained a
 * However, when the environment is patchy AND rainfall is random, then cooperators start to dominate non-cooperators 
 * In the following figure, A) shows the relationship between cooperator ratio (y-axis) and P (x-axis) across the entire parameter space. B) Shows this relationship when the land is also very patchy. 
 
-![](/Images/cooperatorRatio.png)
+<p align="center">
+  <img src=/Images/cooperatorRatio.png>
+</p>
 
 * Resources are also scattered in patches on Rapa Nui. Most farming occurs around discrete wells that line the coast, which validates the simulation 
 * The evolution of cooperation could have been supported by the randomness of rainfall. 
